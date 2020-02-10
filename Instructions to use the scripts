@@ -1,0 +1,27 @@
+TRAINING - run.sh
+.
+.
+TEST - evaluate.sh (once training completes or we can terminate the training in between and evaluate on test data using it)
+.
+.
+Method to plot the kernels is defined in Training Module itself and plots are taken from tensor board once the training is stopped.
+.
+.
+command to visualise the receptive fields of excited neurons - python visualise_receptiveF.py
+.
+.
+.
+command to visualise the feature maps corresponding to each filter - python visualise_featureMaps.py
+.
+.
+.
+guided back propagation implemented in guided.py
+
+
+ 
+
+
+
+
+
+
